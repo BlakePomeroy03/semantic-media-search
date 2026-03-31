@@ -1,0 +1,11 @@
+# Binaries
+main
+semantic-media-search
+
+# Database
+*.db
+*.db-shm
+*.db-wal
+
+# OS files
+.DS_Store
